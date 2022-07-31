@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(169, 234, 234);
+    display:flex;
+    justify-content:center;
+}
+#quote{
+    font-size:25px;
+}
+div{
+    background-color:aquamarine;
+    box-shadow:5px 5px 10px;
+    height:350px;
+    width:550px;
+    padding:10px;
+    margin-top:70px;
+    position:absolute;
+    border-radius:5px;
+}
+button{
+    background-color:rgb(79, 236, 236);
+    font-size:15px;
+    font-style:bold;
+    border:solid 1px;
+    padding:15px;
+    position:absolute;
+    top:300px;
+}
+h3{
+    float:right;
+}
+#writer{
+    position:absolute;
+    top:200px;
+    left:400px;
+}
